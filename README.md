@@ -29,18 +29,18 @@ for the frontend.
 ## How to Run
 
 Clone the repository:
-
-git clone YOUR_REPOSITORY_URL
+```text
+git clone https://github.com/Pagilla-Joshna/farmer-marketplace.git
 cd farmer-marketplace
-
+```
 Install dependencies:
-
+```text
 pip install -r requirements.txt
-
+```
 Run the application:
-
+```text
 python app.py
-
+```
 Open the application in your browser at:
 
 http://127.0.0.1:5000
